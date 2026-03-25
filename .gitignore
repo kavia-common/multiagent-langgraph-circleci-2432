@@ -216,3 +216,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.file_activity_report.json
